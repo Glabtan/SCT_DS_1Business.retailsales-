@@ -46,7 +46,7 @@ Retail is all about understanding patterns, maximizing profits, and improving cu
 ## Getting Started
 
 To get started:
-1. Open the **business.retailsales** sheet for a deep dive into the raw data.
+1. Open the **SCT_DS_1Business.retailsales1** sheet for a deep dive into the raw data.
 2. Check out the **Analysis&KPI** sheet for summarized metrics.
 3. Explore the **Dashboard** for quick, visual insights (once it’s finalized).
 
