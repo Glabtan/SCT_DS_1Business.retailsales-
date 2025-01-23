@@ -51,9 +51,7 @@ To get started:
 3. Explore the **Dashboard** for quick, visual insights (once it’s finalized).
 
 ### Recommended Tools
-Use tools like Excel, Python, or R for analysis. For Python, you might find these libraries helpful:
-- `pandas`: For slicing and dicing the data.
-- `matplotlib` or `seaborn`: For creating stunning visualizations.
+i make Use of  Excel
 
 ## Example Analysis Ideas
 Here are a few questions this dataset can help you answer:
