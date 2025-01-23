@@ -1,12 +1,12 @@
 # Retail Sales Performance Dataset
 
-Welcome to my retail sales performance dataset repository! This collection of data is packed with insights into sales trends, product performance, and profitability metrics—everything you need to dive into retail analytics.
+Welcome to my retail sales performance dataset repository! This collection of two datasets are packed with insights into sales trends, product performance, and profitability metrics—everything you need to dive into retail analytics.
 
 ## Dataset Overview
 
 This dataset is organized into three sheets:
 
-1. **business.retailsales**: The heart of the dataset, containing detailed sales data.
+1. **business.retailsales1&2**: The heart of the dataset, containing detailed sales data.
 2. **Analysis&KPI**: A snapshot of the big picture with key performance indicators (KPIs).
 3. **Dashboard**: Visual summaries to make the data come alive (still a work in progress).
 
@@ -14,6 +14,8 @@ This dataset is organized into three sheets:
 Here’s what you’ll find in this sheet:
 
 - **Product Type**: The category of products sold, such as Art & Sculpture or Basket.
+- **Months**
+- **Year**
 - **Net Quantity**: How many units were sold.
 - **Gross Sales**: Total revenue before adjustments.
 - **Discounts**: The amount of discounts applied.
@@ -36,7 +38,7 @@ It’s great for getting a quick overview without crunching all the numbers your
 ### Dashboard Sheet
 The dashboard provides visual insights, making it easier to grasp the story behind the numbers. (Some formatting and fine-tuning may still be needed here.)
 
-## Why This Dataset Matters
+## Why Are These Dataset Matters
 
 Retail is all about understanding patterns, maximizing profits, and improving customer experiences. With this dataset, you can:
 - Analyze sales trends and identify top-performing product categories.
@@ -46,7 +48,7 @@ Retail is all about understanding patterns, maximizing profits, and improving cu
 ## Getting Started
 
 To get started:
-1. Open the **SCT_DS_1Business.retailsales1** sheet for a deep dive into the raw data.
+1. Open the **SCT_DS_1Business.retailsales1&2** sheet for a deep dive into the raw data.
 2. Check out the **Analysis&KPI** sheet for summarized metrics.
 3. Explore the **Dashboard** for quick, visual insights (once it’s finalized).
 
